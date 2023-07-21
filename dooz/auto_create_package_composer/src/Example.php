@@ -1,5 +1,5 @@
 <?php
-namespace martinlechêne(doganddev.eu)\auto_create_package_composer;
+namespace doganddev\auto_create_package_composer;
 
 class Example
 {

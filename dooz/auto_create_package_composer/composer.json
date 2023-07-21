@@ -5,13 +5,13 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Martin Lechêne (doganddev.eu)",
+      "name": "doganddev",
       "email": "contact@doganddev.eu"
     }
   ],
   "autoload": {
     "psr-4": {
-      "martinlechêne(doganddev.eu)\\auto_create_package_composer\\": "src/"
+      "doganddev\\auto_create_package_composer\\": "src/"
     }
   }
 }
