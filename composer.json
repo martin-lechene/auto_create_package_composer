@@ -1,0 +1,17 @@
+{
+  "name": "doganddev/first-package",
+  "description": "First test of my auto_create_package_composer",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Martin Lechêne (doganddev.eu)",
+      "email": "contact@doganddev.eu"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "martin lechêne (doganddev.eu)\\doganddev/first-package\\": "src/"
+    }
+  }
+}
