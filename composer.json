@@ -15,3 +15,20 @@
     }
   }
 }
+{
+  "name": "test/test",
+  "description": "test",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ml",
+      "email": "m@m.be"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ml\\test/test\\": "src/"
+    }
+  }
+}
