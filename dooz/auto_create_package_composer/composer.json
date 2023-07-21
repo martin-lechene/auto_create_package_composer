@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "martin lechêne (doganddev.eu)\\dooz/auto_create_package_composer\\": "src/"
+      "martinlechêne(doganddev.eu)\\auto_create_package_composer\\": "src/"
     }
   }
 }
